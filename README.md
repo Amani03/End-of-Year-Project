@@ -1,4 +1,4 @@
-# End-of-Year-Project
+# End of Year Project
 End of Year Project: Reading Bus Time Prediction - A Data Science Approach. The repository includes the dissertation that gained a first mark and the Jupyter Notebooks that demonstrate the approach taken using Python.
 
 ## Description of the Project
